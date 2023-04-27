@@ -1,0 +1,14 @@
+# BENCHMARK FUNCTION: DROP-WAVE
+
+![Drop-Wave](https://www.sfu.ca/~ssurjano/drop.png)
+
+$f(x) = \frac {1+\cos(12 \sqrt{x_1^2+x_2^2})}{0.5(x_1^2+x_2^2)+2}$
+
+## Descripción:
+_Dimensiones: 2_  
+La función Drop-Wave es multimodal y muy compleja.
+
+## Dominio de la entrada:
+La función generalmente se evalúa en el cuadrado  ${x_{i}:}$ ∈ [-5.12, 5.12], para todo $i$ = 1, 2. 
+## Mínimo global:
+$f(x*) = -1$ en $x* = (0,0)$
